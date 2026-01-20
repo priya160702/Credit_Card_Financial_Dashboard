@@ -41,7 +41,7 @@ This section focuses on customer demographics and segmentation, covering:
 
 It helps answer questions like:
 
-1 Which customer segments generate the most revenue?
+Which customer segments generate the most revenue?
 How does income or occupation influence spending and delinquency?
 What customer profiles carry higher financial risk?
 
