@@ -28,7 +28,7 @@ The primary objective of this project is to:
 
 ### Dashboard Structure
 
-Customer Dashboard
+Customer Dashboard -
 
 This section focuses on customer demographics and segmentation, covering:
 
@@ -45,7 +45,7 @@ Which customer segments generate the most revenue?
 How does income or occupation influence spending and delinquency?
 What customer profiles carry higher financial risk?
 
-Transaction Dashboard
+Transaction Dashboard -
 
 This section analyzes spending behavior and financial performance, including:
 
@@ -61,7 +61,7 @@ It enables analysis of:
 2. Changes in spending patterns over time
 3. Revenue contribution by transaction category
 
-Time-Based Analysis
+### Time-Based Analysis
 
 The dashboard supports multi-level trend analysis through:
 
@@ -71,7 +71,7 @@ The dashboard supports multi-level trend analysis through:
 
 This allows stakeholders to quickly identify growth patterns, seasonal trends, and anomalies.
 
-Key Metrics Tracked
+### Key Metrics Tracked
 
 1. Total Revenue
 2. Interest Earned
