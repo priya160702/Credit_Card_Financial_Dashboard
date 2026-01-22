@@ -1,6 +1,6 @@
 # Credit Card Financial Dashboard
 
-Domain: Financial Analytics | Business Intelligence
+Domain: Financial Analytics, Business Intelligence
 
 ### Project Overview
 
